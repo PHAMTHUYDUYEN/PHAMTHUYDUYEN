@@ -1,15 +1,15 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
+![MasterHead](https://github.com/user-attachments/assets/745a6e2f-80f9-484b-ba8e-85e378a89e6f)
 <h1 align="center">Hi 👋, I'm Duyen Pham Thuy</h1>
 <h3 align="center">A Data Enthusiast seeking for Opportunities in DA.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamthuyduyen&label=Profile%20views&color=0e75b6&style=flat" alt="phamthuyduyen" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analyst**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/PHAMTHUYDUYEN?tab=repositories](https://github.com/PHAMTHUYDUYEN?tab=repositories)
+- 👨‍💻 Welcome to my portfolio, where I showcase my [projects](https://github.com/PHAMTHUYDUYEN?tab=repositories).
 
-- 📫 How to reach me **duyen.phamthuy314@gmail.com**
+- 📫 You can reach me via my [email](duyen.phamthuy314@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
