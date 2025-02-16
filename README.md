@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/745a6e2f-80f9-484b-ba8e-85e378a89e6f)
-<h1 align="center">Hi 👋, I'm Duyen Pham Thuy</h1>
+<h1 align="center">Hi 👋, I'm Duyen Pham </h1>
 <h3 align="center">A Data Enthusiast seeking for Opportunities in DA.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 Welcome to my portfolio, where I showcase my [projects](https://github.com/PHAMTHUYDUYEN?tab=repositories).
 
-- 📫 You can reach me via my [email](duyen.phamthuy314@gmail.com).
+- 📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/duyen-pham-thuy-281592213/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
